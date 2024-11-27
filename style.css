@@ -1,0 +1,40 @@
+
+body {
+    background-color: #f9f1f9; 
+}
+
+
+.navbar {
+    background-color: #f06292; 
+}
+
+.navbar-brand, .nav-link {
+    color: white !important; 
+}
+
+.nav-link:hover {
+    color: #ff4081 !important; 
+}
+
+
+.container h1, .container h2 {
+    color: #f06292; 
+}
+
+
+.btn-pink {
+    background-color: #f06292;
+    color: white;
+}
+
+.btn-pink:hover {
+    background-color: #ff4081;
+}
+
+
+footer {
+    background-color: pink;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
